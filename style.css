@@ -1,0 +1,48 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: rgb(84, 223, 137);
+}
+
+h1{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 50px;
+}
+
+form{
+    background-color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 50px;
+    padding:10px;
+    font-size:20px ;
+    height: 900px;
+    width: 500px;
+
+}
+
+.name{
+    width: 400px;
+    height: 30px;
+}
+
+.describes{
+    width: 400px;
+    height: 30px;
+}
+
+.box{
+    height: 50px;
+    width: 500px;
+}
+
+button{
+    width: 500px;
+    height: 25px;
+    background-color:rgb(84, 223, 137);
+    border: 0px;
+}
